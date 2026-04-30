@@ -82,4 +82,3 @@ This project demonstrates how Restricted Boltzmann Machines can be used for cust
 
 
 
-Your Name
